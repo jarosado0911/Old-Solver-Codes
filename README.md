@@ -1,2 +1,2 @@
-# Old-Virtual-Reality-Codes
-These are old test codes I made for the virtual reality neuron project
+# Old-Solver-Codes
+These are old test codes I made for solving HH model on a neuron --> deprecated, but gives some examples on how to use libraries.
